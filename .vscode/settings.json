@@ -1,0 +1,7 @@
+{
+    "julia.environmentPath": "/Users/aravbhattacharyya/Documents/programming/Regret-minimisation-learning",
+    "flake8.args": [
+        "--max-line-length=120",
+        "--ignore=D208,D107,D205,D102,D103,D100,D101",
+     ]
+}
